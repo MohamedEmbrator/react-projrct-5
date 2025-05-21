@@ -1,0 +1,19 @@
+{
+  "transactions": [
+    {
+      "id": "b734",
+      "title": "Water",
+      "price": 10
+    },
+    {
+      "id": "5cb1",
+      "price": 150,
+      "title": "Watermellon"
+    },
+    {
+      "id": "8a14",
+      "price": 390,
+      "title": "Food"
+    }
+  ]
+}
